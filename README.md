@@ -1,13 +1,14 @@
-***************
-~~~~~~~~~~~~~~~
-FRUITS
+colors
 
-apple
+
+
+white
+black
+pink
+red 
+yellow
 orange
-mango
-pomegrante
-banana
-guvya
-
-
+gold
+blue
+green
 
